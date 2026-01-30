@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Anderson! 👋
 
-<!--
-**andersonnapramoss-oss/Andersonnapramoss-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em soluções robustas e seguras. Atualmente atuando no ecossistema **Full Stack**, com foco em arquitetura de backend e bancos de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No que estou trabalhando
+- 🔭 **Foco atual:** Desenvolvimento Full Stack e otimização de Bancos de Dados.
+- 🌱 **Evolução Contínua:** Aprofundando conhecimentos em JavaScript (ES6+), Python e Frontend moderno (HTML5/CSS3).
+
+### 🧠 Expertise Técnica
+- **Linguagens & Frameworks:** Python, JavaScript, Node.js.
+- **Banco de Dados:** Modelagem e gerenciamento de dados.
+- **Infraestrutura & Segurança:** Administração Linux e Pentesting com Kali Linux.
+- entre em contato : andersonn.apramoss@icloud.com
+  
